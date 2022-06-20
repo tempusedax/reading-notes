@@ -16,8 +16,8 @@ System maintenance and evolution − Easy to change and update the implementatio
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
 4. What is “props” short for? “Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
-5. How are props used in React? The important part here is that data with props are being passed in a uni-directional flow. (one way from parent to child)
-6. What is the flow of props? Firstly, define an attribute and its value(data),Then pass it to child component(s) by using Props,Finally, render the Props Data.
+5. How are props used in React? Props is used to send data one way, parent to chuld unilaterally.
+6. What is the flow of props? Define the attribute and its value(data) pass it to child component(s) by using Props, finally, render the Props Data.
 
 ## Things I want to know more about
 I want to know how other languages encapsulate data.
