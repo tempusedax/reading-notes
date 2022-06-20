@@ -7,7 +7,7 @@
 
 # Table of Contents
 
-- [Class 1](Class1.md)
+- [Class 1](class1.md)
 
 - [Class 2](Class2.md)
 
