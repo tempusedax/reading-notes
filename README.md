@@ -4,7 +4,7 @@
 - This is basically going to home all of my notes for the course. I fixed the issue with the remo name.
 
 ## - 401 Python
-- Update for python
+- Class 2](class2.md)
 
 # Table of Contents
 
