@@ -5,6 +5,8 @@
 
 ## - 401 Python
 - [Class 2](pyth2.md)
+- [Class 11](pyth11.md)
+- [Class 12](pyth12.md)
 
 # Table of Contents
 
